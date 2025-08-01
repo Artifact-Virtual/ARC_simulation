@@ -1,0 +1,14 @@
+[Unit]
+Description=Constitution Simulation Demon Service
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/adam/repos/constitution_simulation
+Environment=PYTHONPATH=/home/adam/repos/constitution_simulation
+ExecStart=/home/adam/repos/constitution_simulation/.venv/bin/python demon.py
+Restart=always
+User=adam
+
+[Install]
+WantedBy=multi-user.target
