@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.20%2B-ff4b4b.svg)](https://streamlit.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Build](https://img.shields.io/github/actions/workflow/status/your-repo/constitutional_simulation/ci.yml?branch=main)](https://github.com/your-repo/constitutional_simulation/actions)
+
 
 A dynamic simulation of emergent governance where constitutional law (ARC), AI governance (ADAM Protocol), and economic systems (FUEL) interact as a living, evolving entity. Watch as rules adapt, agents compete, and constitutional patterns emerge from the interplay of law, intelligence, and economics.
 
